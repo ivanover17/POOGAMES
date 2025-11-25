@@ -1,5 +1,5 @@
 package paquete;
 
-public class Arma {
+public class Armas {
 
 }
