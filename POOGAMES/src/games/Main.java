@@ -1,4 +1,4 @@
-package paquete;
+package games;
 
 public class Main {
 
